@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FB16BD3427C2918F00338AB5 /* Preview.png in Resources */ = {isa = PBXBuildFile; fileRef = FB16BD3327C2918F00338AB5 /* Preview.png */; };
 		FB64D87B2722FDE6001C1DE2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB64D87A2722FDE6001C1DE2 /* AppDelegate.swift */; };
 		FB64D87D2722FDE6001C1DE2 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB64D87C2722FDE6001C1DE2 /* SceneDelegate.swift */; };
 		FB64D87F2722FDE6001C1DE2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB64D87E2722FDE6001C1DE2 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FB16BD3327C2918F00338AB5 /* Preview.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Preview.png; sourceTree = SOURCE_ROOT; };
 		FB64D8772722FDE6001C1DE2 /* CenterLabel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CenterLabel.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FB64D87A2722FDE6001C1DE2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FB64D87C2722FDE6001C1DE2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				FB64D8832722FDE6001C1DE2 /* Assets.xcassets */,
 				FB64D8852722FDE6001C1DE2 /* LaunchScreen.storyboard */,
 				FB64D8882722FDE6001C1DE2 /* Info.plist */,
+				FB16BD3327C2918F00338AB5 /* Preview.png */,
 			);
 			path = CenterLabel;
 			sourceTree = "<group>";
@@ -124,6 +127,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FB16BD3427C2918F00338AB5 /* Preview.png in Resources */,
 				FB64D8872722FDE6001C1DE2 /* LaunchScreen.storyboard in Resources */,
 				FB64D8842722FDE6001C1DE2 /* Assets.xcassets in Resources */,
 				FB64D8822722FDE6001C1DE2 /* Main.storyboard in Resources */,

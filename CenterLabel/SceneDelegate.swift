@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  CenterLabel
 //
-//  Created by Кот on 22.10.2021.
+//  Created by Vitaly Khryapin on 22.10.2021.
 //
 
 import UIKit
